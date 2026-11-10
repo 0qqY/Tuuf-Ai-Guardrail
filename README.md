@@ -41,6 +41,8 @@ Optional fields (`app`, `user_id`, `session_id`) travel into the audit and SIEM 
 
 ## Contact
 
-Orhan Öztaş: add a contact e-mail or profile link here.
+Orhan Öztaş: 
+Mail : orhanoztasbir@gmail.com
+Linkedin : https://www.linkedin.com/in/orhanoztas
 
 *This project is not affiliated with or endorsed by OWASP, Anthropic, OpenAI or any model provider named by its users.*
